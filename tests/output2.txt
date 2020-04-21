@@ -1,0 +1,9 @@
+Reservation 1 Zoo Penguin Hippo
+Change 1 Zoo Penguin Hippo
+Change 1 Zoo Penguin Hippo
+Request rejected
+Cancel 1
+Reservation 3 Zoo Penguin Hippo Elephant
+Zoo Penguin Mar 25 2
+Zoo Hippo Mar 25 2
+Zoo Elephant Mar 25 2
